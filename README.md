@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+Roam Right
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Roam Right is a dynamic travel website designed to provide users with an immersive experience in planning and organizing their travels. Leveraging the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) and integrating various third-party APIs, Roam Right offers a comprehensive platform for discovering destinations, booking accommodations, and exploring activities around the world.
 
-## Available Scripts
+Features
 
-In the project directory, you can run:
+User Authentication: Secure user authentication system for managing accounts and personal information.
+Destination Search: Utilize third-party APIs to enable users to search for destinations based on various criteria such as location, activities, and budget.
+Accommodation Booking: Integration with hotel booking APIs to facilitate seamless accommodation reservations.
+Activity Recommendations: Curated suggestions and recommendations for activities and attractions at each destination.
+Itinerary Planning: Allow users to create and manage their travel itineraries, including scheduling activities and booking transportation.
+User Reviews and Ratings: Enable users to leave reviews and ratings for destinations, accommodations, and activities.
+Responsive Design: Ensure optimal user experience across various devices and screen sizes.
+Technologies Used
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Frontend: React.js, Redux (optional for state management), HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js, MongoDB (Mongoose for ORM)
+API Integration: Third-party APIs for destination information, accommodation booking, and activity recommendations.
